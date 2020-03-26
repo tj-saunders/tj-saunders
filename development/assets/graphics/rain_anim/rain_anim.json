@@ -1,0 +1,31 @@
+{"frames": {
+
+"rain_anim0001.png":
+{
+	"frame": {"x":4,"y":4,"w":220,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":196},
+	"sourceSize": {"w":220,"h":196}
+},
+"rain_anim0002.png":
+{
+	"frame": {"x":4,"y":205,"w":220,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":196},
+	"sourceSize": {"w":220,"h":196}
+}},
+"animations": {
+	"rain_anim": ["rain_anim0001.png","rain_anim0002.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rain_anim.png",
+	"format": "RGBA8888",
+	"size": {"w":228,"h":405},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:57d20bf72d9e0e1dc4000e72d5119dfb:30d3d95fc8ab7ba0faaebfc3ef9e9708:aec537a0dc7ddbc591d5d2c1a703e086$"
+}
+}

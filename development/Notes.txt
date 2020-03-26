@@ -1,0 +1,22 @@
+
+
+Everything is displayed in canvas, there are three different types of animation for sun, rain and clouds.
+It searches for "rain" or "cloud" in the string to display those if it finds either in the description string.
+
+Some of the tasks I'm not sure how to do, so I left them out ie. The node server and the testing procedure.
+I also wasn't sure what "manually configuring the tooling for the project" or "you need to contain routing in the app" meant.
+
+It took a lot longer than the hour specified, 3-4 hours with testing on different devices and fixes, I am very impressed people can do all this in one hour.
+
+I realise this is not modular, I reused some classes from another project such as button which weren't modular.
+
+Some classes may need more cleanup when destroyed, I didn't have time to check everything.
+
+More checks could be done on data, such as checking for no response from server etc.
+
+It's not responsive to rotation, this is a lot of work to redraw canvas elements, 
+but it is placed centrally, some elements are dynamic depending on screen size and should fit most devices if you don't rotate.
+
+I'd normally make a deploy version using Gulp, but have left it as the source files for now.
+
+
