@@ -377,7 +377,7 @@ MainScreen.prototype._unitsToggleButtonPressed = function(){
 	
 	if(this._usingF){
 		
-		this._unitsText.text = "Units: K";
+		this._unitsText.text = "Units: F";
 	}
 	else{
 		
